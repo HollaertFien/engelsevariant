@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fien Hollaert ned",
-    "currentPage": "index.html",
+    "currentPage": "docland.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2335,10 +2335,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pauze-1-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pauze-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pauze-web-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pauze-web.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -2388,7 +2388,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/landpaalweb-800x577.jpg",
                 "image": "@PROJECT_PATH@/assets/images/landpaalweb.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "5",
