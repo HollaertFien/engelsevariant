@@ -81,7 +81,7 @@
           },
           "title": "Fien Hollaert&nbsp;",
           "text": "Fien Hollaert (1995°), student at Luca School of Arts in Ghent.<br>Studies fine arts, specializing in Painting.<br>(Nederlandse site:&nbsp;https://hollaertfien.github.io/sitefien/ )",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"bekijkwerkalgemeen.html\" data-toolbar=\"-mbrBtnMove\">Work</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"file:///C:/Users/fienh/Desktop/sitefien/index.html\" data-toolbar=\"-mbrBtnMove\">Nederlands</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"bekijkwerkalgemeen.html\" data-toolbar=\"-mbrBtnMove\">Work</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://hollaertfien.github.io/sitefien/index.html\" data-toolbar=\"-mbrBtnMove\">Nederlands</a>"
         },
         {
           "_styles": {
